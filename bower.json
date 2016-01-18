@@ -1,0 +1,19 @@
+{
+  "name": "ws-element",
+  "version": "0.1.0",
+  "authors": [
+    "Sergio Sáenz <ssaenz010@gmail.com>"
+  ],
+  "description": "Wrapper for browser-native WebSocket client",
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1"
+  }
+}
